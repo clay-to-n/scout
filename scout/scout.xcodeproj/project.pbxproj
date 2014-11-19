@@ -7,6 +7,13 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		01C551C51A1A067400518CEC /* screen_pets@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551C41A1A067400518CEC /* screen_pets@2x.png */; };
+		01C551C71A1A074B00518CEC /* icon_notifications@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551C61A1A074B00518CEC /* icon_notifications@2x.png */; };
+		01C551C91A1A07A800518CEC /* screen_notifications@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551C81A1A07A800518CEC /* screen_notifications@2x.png */; };
+		01C551D01A1A0A0F00518CEC /* screen_login@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551CC1A1A0A0F00518CEC /* screen_login@2x.png */; };
+		01C551D11A1A0A0F00518CEC /* screen_main@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551CD1A1A0A0F00518CEC /* screen_main@2x.png */; };
+		01C551D21A1A0A0F00518CEC /* screen_pet_history@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551CE1A1A0A0F00518CEC /* screen_pet_history@2x.png */; };
+		01C551D31A1A0A0F00518CEC /* screen_settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01C551CF1A1A0A0F00518CEC /* screen_settings@2x.png */; };
 		01E3E0D41A19EAED0098F7F6 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E3E0D31A19EAED0098F7F6 /* AppDelegate.swift */; };
 		01E3E0D61A19EAED0098F7F6 /* FirstViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E3E0D51A19EAED0098F7F6 /* FirstViewController.swift */; };
 		01E3E0D81A19EAED0098F7F6 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E3E0D71A19EAED0098F7F6 /* SecondViewController.swift */; };
@@ -14,6 +21,9 @@
 		01E3E0DD1A19EAED0098F7F6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 01E3E0DC1A19EAED0098F7F6 /* Images.xcassets */; };
 		01E3E0E01A19EAED0098F7F6 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 01E3E0DE1A19EAED0098F7F6 /* LaunchScreen.xib */; };
 		01E3E0EC1A19EAED0098F7F6 /* scoutTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 01E3E0EB1A19EAED0098F7F6 /* scoutTests.swift */; };
+		01E3E1011A19F9190098F7F6 /* icon_menu@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E3E0FB1A19F9190098F7F6 /* icon_menu@2x.png */; };
+		01E3E1031A19F9190098F7F6 /* icon_settings@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E3E0FD1A19F9190098F7F6 /* icon_settings@2x.png */; };
+		01E3E1071A19F9720098F7F6 /* icon_map@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = 01E3E1051A19F9720098F7F6 /* icon_map@2x.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -27,6 +37,13 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		01C551C41A1A067400518CEC /* screen_pets@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_pets@2x.png"; sourceTree = "<group>"; };
+		01C551C61A1A074B00518CEC /* icon_notifications@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_notifications@2x.png"; sourceTree = "<group>"; };
+		01C551C81A1A07A800518CEC /* screen_notifications@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_notifications@2x.png"; sourceTree = "<group>"; };
+		01C551CC1A1A0A0F00518CEC /* screen_login@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_login@2x.png"; sourceTree = "<group>"; };
+		01C551CD1A1A0A0F00518CEC /* screen_main@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_main@2x.png"; sourceTree = "<group>"; };
+		01C551CE1A1A0A0F00518CEC /* screen_pet_history@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_pet_history@2x.png"; sourceTree = "<group>"; };
+		01C551CF1A1A0A0F00518CEC /* screen_settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "screen_settings@2x.png"; sourceTree = "<group>"; };
 		01E3E0CE1A19EAED0098F7F6 /* scout.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = scout.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		01E3E0D21A19EAED0098F7F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01E3E0D31A19EAED0098F7F6 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -38,6 +55,9 @@
 		01E3E0E51A19EAED0098F7F6 /* scoutTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = scoutTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		01E3E0EA1A19EAED0098F7F6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		01E3E0EB1A19EAED0098F7F6 /* scoutTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = scoutTests.swift; sourceTree = "<group>"; };
+		01E3E0FB1A19F9190098F7F6 /* icon_menu@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_menu@2x.png"; sourceTree = "<group>"; };
+		01E3E0FD1A19F9190098F7F6 /* icon_settings@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_settings@2x.png"; sourceTree = "<group>"; };
+		01E3E1051A19F9720098F7F6 /* icon_map@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "icon_map@2x.png"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -84,6 +104,7 @@
 				01E3E0D71A19EAED0098F7F6 /* SecondViewController.swift */,
 				01E3E0D91A19EAED0098F7F6 /* Main.storyboard */,
 				01E3E0DC1A19EAED0098F7F6 /* Images.xcassets */,
+				01E3E0F51A19F2670098F7F6 /* Resources */,
 				01E3E0DE1A19EAED0098F7F6 /* LaunchScreen.xib */,
 				01E3E0D11A19EAED0098F7F6 /* Supporting Files */,
 			);
@@ -113,6 +134,23 @@
 				01E3E0EA1A19EAED0098F7F6 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		01E3E0F51A19F2670098F7F6 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				01C551CC1A1A0A0F00518CEC /* screen_login@2x.png */,
+				01C551CD1A1A0A0F00518CEC /* screen_main@2x.png */,
+				01C551CE1A1A0A0F00518CEC /* screen_pet_history@2x.png */,
+				01C551CF1A1A0A0F00518CEC /* screen_settings@2x.png */,
+				01C551C41A1A067400518CEC /* screen_pets@2x.png */,
+				01C551C81A1A07A800518CEC /* screen_notifications@2x.png */,
+				01C551C61A1A074B00518CEC /* icon_notifications@2x.png */,
+				01E3E1051A19F9720098F7F6 /* icon_map@2x.png */,
+				01E3E0FB1A19F9190098F7F6 /* icon_menu@2x.png */,
+				01E3E0FD1A19F9190098F7F6 /* icon_settings@2x.png */,
+			);
+			path = Resources;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -198,6 +236,16 @@
 				01E3E0DB1A19EAED0098F7F6 /* Main.storyboard in Resources */,
 				01E3E0E01A19EAED0098F7F6 /* LaunchScreen.xib in Resources */,
 				01E3E0DD1A19EAED0098F7F6 /* Images.xcassets in Resources */,
+				01C551D11A1A0A0F00518CEC /* screen_main@2x.png in Resources */,
+				01C551D31A1A0A0F00518CEC /* screen_settings@2x.png in Resources */,
+				01E3E1031A19F9190098F7F6 /* icon_settings@2x.png in Resources */,
+				01C551D01A1A0A0F00518CEC /* screen_login@2x.png in Resources */,
+				01E3E1011A19F9190098F7F6 /* icon_menu@2x.png in Resources */,
+				01C551D21A1A0A0F00518CEC /* screen_pet_history@2x.png in Resources */,
+				01C551C91A1A07A800518CEC /* screen_notifications@2x.png in Resources */,
+				01C551C51A1A067400518CEC /* screen_pets@2x.png in Resources */,
+				01C551C71A1A074B00518CEC /* icon_notifications@2x.png in Resources */,
+				01E3E1071A19F9720098F7F6 /* icon_map@2x.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -409,6 +457,7 @@
 				01E3E0F11A19EAED0098F7F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		01E3E0F21A19EAED0098F7F6 /* Build configuration list for PBXNativeTarget "scoutTests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +466,7 @@
 				01E3E0F41A19EAED0098F7F6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
